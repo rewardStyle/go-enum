@@ -23,8 +23,8 @@ require (
 	github.com/spf13/pflag v1.0.3
 	github.com/stretchr/testify v1.4.0
 	github.com/urfave/cli/v2 v2.3.0
-	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9 // indirect
-	golang.org/x/sys v0.0.0-20201113233024-12cec1faf1ba // indirect
-	golang.org/x/tools v0.0.0-20201114224030-61ea331ec02b
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
+	golang.org/x/tools/cmd/cover v0.1.0-deprecated
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 )
